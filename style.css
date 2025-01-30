@@ -1,0 +1,52 @@
+.gradient-background {
+    background: linear-gradient(300deg, #818C78, #A7B49E, #E2E0C8);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    }
+
+.seccion-2 {
+    background-color:#E2E0C8 ;
+    height: 100vh;
+}
+
+h1 {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+}
+
+h2 {
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+}
+
+h4{
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+}
+
+.bottom-container {
+    display: block;
+    background-color: #A7B49E;
+    padding: 0px 0 0px;
+    background-size: 180% 180%;
+}
+
+a {
+    text-decoration: none;
+    color: #E2E0C8;
+}
+
+.a-2 {
+    text-decoration: #818C78;
+    color: #818C78;
+}
+
+.img-eva {
+    border-radius: 200px;
+}
